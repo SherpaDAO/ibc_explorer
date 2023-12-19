@@ -11,11 +11,11 @@ Follow these steps to install the application:
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/EverestSmartChain/ibc_explorer.git
     ```
 2. Navigate into the application's directory:
     ```
-    cd <application-directory>
+    cd 
     ```
 3. Install the application's dependencies:
     ```
