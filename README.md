@@ -47,9 +47,3 @@ If you'd like to contribute, please fork the repository and make changes as you'
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - your@email.com
-```
-Please replace `<repository-url>`, `<application-directory>`, and your contact details with the actual values.
