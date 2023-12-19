@@ -1,0 +1,11 @@
+{
+  "maintainer": {
+    "name": "Everest",
+    "url": "https://evtscan.com"
+  },
+  "github": {
+    "reportIssue": "https://github.com/thr2240/Everest/issues"
+  },
+  "previewImage": "https://evtscan.com/images/Everest.png",
+  "version": "base-v1.1.0"
+}

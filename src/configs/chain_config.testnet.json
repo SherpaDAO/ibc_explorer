@@ -1,0 +1,34 @@
+{
+  "title": "Everest Block Explorer",
+  "network": "evt_8848-1",
+  "icon": "/images/evt.png",
+  "logo": {
+    "default": "/images/evt.png",
+    "deuteranopia":"/images/evt_light.png",
+    "tritanopia":"/images/evt_light.png"
+  },
+  "prefix": {
+    "consensus": "evtvalcons",
+    "validator": "evtvaloper",
+    "account": "evt"
+  },
+  "genesis": {
+    "time": "2021-07-13T08:00:00",
+    "height": 1
+  },
+  "primaryTokenUnit": "aevt",
+  "votingPowerTokenUnit": "aevt",
+  "tokenUnits": {
+    "aevt": {
+      "display": "evt",
+      "exponent": 18
+    },
+    "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518": {
+      "display": "osmo",
+      "exponent": 6
+    }
+  },
+  "extra": {
+    "profile": false
+  }
+}

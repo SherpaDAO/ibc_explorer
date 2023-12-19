@@ -1,0 +1,6 @@
+{
+    "apps": {
+        "name": "evtexplorer",
+        "script": "npm run start"
+    }
+}
