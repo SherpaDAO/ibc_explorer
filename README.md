@@ -46,4 +46,6 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information. 
+
+#Thanks
